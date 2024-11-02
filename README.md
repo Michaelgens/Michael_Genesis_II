@@ -1,15 +1,53 @@
-# Welcome
+<p align="center">
+  <img src="./images/pics.jpeg" style="border-radius: 50%;" height="120" alt="Michael Genesis II">
+</p>
 
-- 👋 Hi, I’m Michael Genesis II  
-- 👀 I’m interested in Artificial Intelligence, Deep Learning, Fintech, and Blockchain Technologies  
-  
-- 🌱 I’m currently learning TensorFlow  
-- 💞️ I’m looking to collaborate on Crypto Projects 
-- 📫 How to reach me: michaelgenesis26@gmail.com
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: Do you know, i can your next tech guy for your big project???
+<h3 align="center">
+  Welcome to My GitHub Profile! 👋
+</h3>
 
-<!---
-Michaelgens/Michaelgens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">
+  Game Theorist - Full Stack Web Dev - Database Engineer - Mobile App Dev - Blockchain Dev & Machine Learning Dev
+</h2> 
+
+Hi there! I'm **Michael Genesis II**, a passionate and dedicated software developer with expertise across a range of fields, including **quantitative finance, game theory, and cutting-edge tech development**. I love building scalable, efficient solutions and continuously improving my skills in the fast-evolving tech landscape.
+
+## 👨‍💻 About Me
+- 🔭 **Currently working on**: Quantitative & Algorithmic Trading and Blockchain Technologies
+- 🌱 **Currently learning**: AWS and Linux
+- 💬 **Ask me about**: Game Theory, Quantitative Finance, Database Management, Data Science, and Web Development
+- ⚡ **Fun fact**: I speak 3 languages and code in 7 programming languages. Multilingual, right?
+
+## 🚀 My Skill Set
+- **Languages**: JavaScript, PHP, Python, C, C++, Dart, and Whitespace
+- **Frameworks**: Django, React.js, Next.js, Node.js, Express.js, Flutter, Laravel
+- **Databases**: MySQL, MongoDB, DynamoDB, and Firebase
+- **Tools & Technologies**: Git, Firestore, Docker, CI/CD
+- **Others**: HTML, CSS, Bootstrap, Tailwind
+
+## 🛠️ Featured Projects
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [Project 1](https://github.com/YourUsername/Project1) | Brief description of the project, challenges solved, or features. | Tech Stack Used |
+| [Project 2](https://github.com/YourUsername/Project2) | Another project with a description and impact or challenges solved. | Tech Stack Used |
+| [Project 3](https://github.com/YourUsername/Project3) | A unique or standout project that showcases your skills. | Tech Stack Used |
+
+For a full list of projects, check out [my repositories](https://github.com/YourUsername?tab=repositories).
+
+## 📫 Connect with Me
+
+[![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/michael-genesis-ii-68835a195?trk=contact-info) LinkedIn  
+[![Twitter](./images/twitter.png)](https://x.com/MichaelGen4521) X  
+[![Email](./images/gmail.png)](mailto:michaelgenesis26@gmail.com) Gmail
+
+## 📈 GitHub Stats
+Loading...
+
+## 🤔 Open to Collaborate
+
+I'm always open to discussing new opportunities, collaborations, and innovative projects. Feel free to reach out!
+
+---
+
+Thank you for visiting my profile! If you like my work, consider giving a ⭐️ to the projects you find helpful.
