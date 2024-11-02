@@ -38,7 +38,7 @@ For a full list of projects, check out [my repositories](https://github.com/Your
 ## 📫 Connect with Me
 
 [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/michael-genesis-ii-68835a195?trk=contact-info) LinkedIn  
-[![Twitter](./images/twitter.png)](https://x.com/MichaelGen4521) X  
+[![Twitter](./images/twitter.png)](https://x.com/MichaelGen4521)  
 [![Email](./images/gmail.png)](mailto:michaelgenesis26@gmail.com) Gmail
 
 ## 📈 GitHub Stats
