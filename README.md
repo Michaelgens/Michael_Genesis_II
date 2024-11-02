@@ -29,7 +29,7 @@ Hi there! I'm **Michael Genesis II**, a passionate and dedicated software develo
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [Project 1](https://github.com/YourUsername/Project1) | Brief description of the project, challenges solved, or features. | Tech Stack Used |
+| [Binance Arbitrage Script](https://github.com/YourUsername/Project1) | Nodejs script that can be detect arbitrage opportunities on Binance Exchange. | HTML & JavaScript |
 | [Project 2](https://github.com/YourUsername/Project2) | Another project with a description and impact or challenges solved. | Tech Stack Used |
 | [Project 3](https://github.com/YourUsername/Project3) | A unique or standout project that showcases your skills. | Tech Stack Used |
 
@@ -38,7 +38,7 @@ For a full list of projects, check out [my repositories](https://github.com/Your
 ## 📫 Connect with Me
 
 [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/michael-genesis-ii-68835a195?trk=contact-info) LinkedIn  
-[![Twitter](./images/twitter.png)](https://x.com/MichaelGen4521)  
+[![Twitter](./images/twitter.png)](https://x.com/MichaelGen4521) Twitter ( X )  
 [![Email](./images/gmail.png)](mailto:michaelgenesis26@gmail.com) Gmail
 
 ## 📈 GitHub Stats
