@@ -29,7 +29,7 @@ Hi there! I'm **Michael Genesis II**, a passionate and dedicated software develo
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [Binance Arbitrage Script](https://github.com/YourUsername/Project1) | Nodejs script that can be detect arbitrage opportunities on Binance Exchange. | HTML & JavaScript |
+| [Binance Arbitrage Script](https://github.com/Michaelgens/Binance-Arbitrage-Script.git) | Nodejs script that can be detect arbitrage opportunities on Binance Exchange. | HTML & JavaScript |
 | [Project 2](https://github.com/YourUsername/Project2) | Another project with a description and impact or challenges solved. | Tech Stack Used |
 | [Project 3](https://github.com/YourUsername/Project3) | A unique or standout project that showcases your skills. | Tech Stack Used |
 
