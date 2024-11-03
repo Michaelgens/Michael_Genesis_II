@@ -19,7 +19,7 @@ Hi there! I'm **Michael Genesis II**, a passionate and dedicated software develo
 - ⚡ **Fun fact**: I speak 3 languages and code in 7 programming languages. Multilingual, right?
 
 ## 🚀 My Skill Set
-- **Languages**: JavaScript, PHP, Python, C, C++, Dart, and Whitespace
+- **Languages**: JavaScript, TypeScript, PHP, Python, C, C++, Dart, and Whitespace
 - **Frameworks**: Django, React.js, Next.js, Node.js, Express.js, Flutter, Laravel
 - **Databases**: MySQL, MongoDB, DynamoDB, and Firebase
 - **Tools & Technologies**: Git, Firestore, Docker, CI/CD
